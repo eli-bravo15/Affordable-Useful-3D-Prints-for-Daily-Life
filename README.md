@@ -1,2 +1,2 @@
 # Affordable-Useful-3D-Prints-for-Daily-Life
-Here you will find some great 3D print STL and 3MF files for out to print 
+This repository showcases my 3D printing work, featuring functional components, prototypes, and custom-designed models. It includes source files, print parameters, and documentation to support reproducibility and iterative design improvements.
